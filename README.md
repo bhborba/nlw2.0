@@ -3,7 +3,7 @@
 Next Level Week 2.0
 </h1>
 
-## Tecnologias demonstradas durante a NLW 1.0
+## Tecnologias demonstradas durante a NLW 2.0
 
 * TypeScript
 * NodeJS
